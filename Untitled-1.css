@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#h1{
+    color: #3ece3e;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(231, 7, 7);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    
+}
+#h2{
+    color: #3ece3e;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(231, 7, 7);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    
+
+}
+#h3{
+    color: #3ece3e;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(231, 7, 7);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+}
+#h4{
+    color: #3ece3e;
+    padding: 10px 25px;
+    background: transparent;
+    border: 1px solid rgb(231, 7, 7);
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    
+}
+video{
+    position :fixed;
+top:0%;
+left:0%;
+width: 100%;
+z-index: -10;
+
+}
+
