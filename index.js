@@ -8,7 +8,7 @@ var song3=document.getElementById("mysong3")
 var song4=document.getElementById("mysong4")
 var video1=document.getElementById("video0")
 var video2=document.getElementById("video1")
-var video3=document.getElementById("video2")
+var video3=document.getElementById("video2");
 
 button1.onclick=function(){
   if(song1.paused){
